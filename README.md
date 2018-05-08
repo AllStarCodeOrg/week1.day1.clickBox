@@ -9,7 +9,7 @@
     - Fill the square with the color blue
     - *NOTE: rectangles are centered using the upper left corner of the shape be default. See [`rectMode()`](https://p5js.org/reference/#/p5/rectMode) for more details.*
 3. When the mouse is pressed, have the color of the box change from blue to red (it should stay that way, until pressed again)
-4. When the mouse is pressed again, the color to should change back to red.
+4. When the mouse is pressed again, the color should change back to red.
 
 ## Extra Credit
 - Instead of only changing on mouse press, have the color also change when the spacebar is pressed.
